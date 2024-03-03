@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'Noctura'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE42C054244C4A13B96C9EFC9D439B76 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9677DD616FBE4966A6DE08DAB676E74D }}
           package: .
